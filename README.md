@@ -14,38 +14,38 @@ This module was developed through the DIFUSE project at Dartmouth College and fu
 
 # Module Overview
 ## Module Objective 
-State module objective. Think "what will students gain from this module?"
+Introduce students to basic functional R commands/procedures whilst tying in key statistical concepts. Gives novice students confidence in R and challenges experienced students.
 
 
 ## Student Learning Objectives
 List student learning objectives. What do you want the students to have learnt from the module?
-1.	...
-2.	...
-3.	...
+1.	
+2.	
+3.	
 
 ## Module Description
 In 3-5 sentences, describe the workflow of the module. How many sections are there and what does each section focus on?
 
 ### Data
-What are the datasets used in the module? Where are they from and what are they for?
+Datasets are numeric files saved as .txt. They will be read into the Jupyter Notebook and used for data analysis and drawing conclusions. 
 
 ### Platform
-Where is the module hosted (MATLAB, Google Colab, R ...)?
+Jupyter Notebook running RStudio
 
 ## Schedule and Links
 Use this page to get an idea of the timeline of the module, what components are involved, and what documents are related to each component. This is the schedule intended for module deployment by the DIFUSE team, though instructors are welcome to modify the timeline to fit their course environment.
 
-Ensure links under "Linked course content" redirect to actual module components. Follow the template for linkage
-
 | Date             |  In/Out of Class | Assignment Description                     | Linked course content                                    | Assignment Files (Linked to Repository Contents) |
 |------------------|-----------------|--------------------------------------------------|-------------------------------------------------|--------------------------------------------------|
-| Week 1 | Out of class      | Set #1: ...  | Course content|[Problem Set 1](completed_module/components/assignment1/) |
-| Week 2 | In class      | Set #2: ... | 	Course content |[Problem Set 2](completed_module/public/components/assignment2/) |
+| Week 1 |  | RX_1  | Course content|[Problem Set 1](completed_module/components/assignment1/) |
+| Week 2 |  | RX_2 | 	Course content |[Problem Set 2](completed_module/public/components/assignment2/) |
+| Week 3 |  | RX_3  | Course content|[Problem Set 1](completed_module/components/assignment1/) |
+| Week 4 |  | RX_4 | 	Course content |[Problem Set 2](completed_module/public/components/assignment2/) |
+| Week 5 |  | RX_5  | Course content|[Problem Set 1](completed_module/components/assignment1/) |
+| Week 6 |  | RX_6 | 	Course content |[Problem Set 2](completed_module/public/components/assignment2/) |
 
 ## Course Information
-This course was developed for a [subject] course(s), <a href="http://dartmouth.smartcatalogiq.com/current/orc/Departments-Programs-Undergraduate/Sociology/SOCY-Sociology/SOCY-34">[name of original course(s), link to ORC catalog]</a>, at Dartmouth College (or whichever college) which explores  ... .The course is a lower major level course in the XXX Department. While there are no prerequisites, most students have courses in XXX and have experience in XXX. 
-
-[replace with an adequate description of student prerequsites to take original course]
+This course was developed for <a href="http://dartmouth.smartcatalogiq.com/current/orc/Departments-Programs-Undergraduate/Engineering-Sciences/ENGS-Engineering-Sciences-Undergraduate/ENGS-93">Engineering 93: Statistical Methods in Engineering</a>, at Dartmouth College which explores the application of statistical techniques and concepts to maximize the amount and quality of information resulting from experiments. The course is a culminating level course in the undergraduate Engineering Department. It has one prerequiste class: <a href="http://dartmouth.smartcatalogiq.com/current/orc/Departments-Programs-Undergraduate/Mathematics/MATH-Mathematics-Undergraduate/MATH-13">Calculus of Vector Valued Functions
 
 ---
 
