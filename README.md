@@ -8,7 +8,7 @@
 This module was developed through the DIFUSE project at Dartmouth College and funded by the National Science Foundation award IUSE-1917002.
 
 
-| <a href="https://github.com/difuse-dartmouth/21w_ENGS93/archive/refs/heads/main.zip"><img src="https://github.com/difuse-dartmouth/.github/blob/main/profile/images/download-all.png" alt="Download the entire module" align="center" style="width: 4in;"></a>| <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="width=2in" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /><br></a>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. |
+| <a href="https://github.com/difuse-dartmouth/engineering-statistics-in-R/archive/refs/heads/main.zip"><img src="https://github.com/difuse-dartmouth/.github/blob/main/profile/images/download-all.png" alt="Download the entire module" align="center" style="width: 4in;"></a>| <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="width=2in" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /><br></a>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. |
 |---------|----------|
 
 
@@ -19,12 +19,12 @@ Introduce students to basic functional R commands/procedures whilst tying in key
 
 ## Student Learning Objectives
 List student learning objectives. What do you want the students to have learnt from the module?
-1.	
-2.	
-3.	
+1. Understand engineering statistical concepts 
+2. Learn R documentation to implement statistical analysis
+3. Use R to visualize popular distrbutions and perform hypothesis tests
 
 ## Module Description
-In 3-5 sentences, describe the workflow of the module. How many sections are there and what does each section focus on?
+Students will complete RX’s as dictated by the syllabus. No grade will be given for the completion of an RX, but the HW (graded) notebooks will build off tasks performed in accompanying RX’s. HW NBs will be turned in on canvas as a .ipynb file. HW solution NBs will be released after deadline for HW. Code is stored in the .ipynb files themselves whil datasets are stored in the DIFUSE Github.
 
 ### Data
 Datasets are numeric files saved as .txt. They will be read into the Jupyter Notebook and used for data analysis and drawing conclusions. 
@@ -35,7 +35,7 @@ Jupyter Notebook running RStudio
 ## Schedule and Links
 Use this page to get an idea of the timeline of the module, what components are involved, and what documents are related to each component. This is the schedule intended for module deployment by the DIFUSE team, though instructors are welcome to modify the timeline to fit their course environment.
 
-| Date             |  In/Out of Class | Assignment Description                     | Linked course content                                    | Assignment Files (Linked to Repository Contents) |
+| Date      |  In/Out of Class | Assignment Description                     | Linked course content                                    | Assignment Files (Linked to Repository Contents) |
 |------------------|-----------------|--------------------------------------------------|-------------------------------------------------|--------------------------------------------------|
 | Week 1 |  | RX_1  | Course content|[Problem Set 1](completed_module/components/assignment1/) |
 | Week 2 |  | RX_2 | 	Course content |[Problem Set 2](completed_module/public/components/assignment2/) |
@@ -49,7 +49,7 @@ This course was developed for <a href="http://dartmouth.smartcatalogiq.com/curre
 
 ---
 
-| <a href="https://github.com/difuse-dartmouth/public-module-template/archive/refs/heads/main.zip"><img src="https://github.com/difuse-dartmouth/.github/blob/main/profile/images/download-all.png" alt="Download the entire module" align="center" style="width: 4in;"></a>| <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="width=2in" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /><br></a>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. |
+| <a href="https://github.com/difuse-dartmouth/engineering-statistics-in-R/archive/refs/heads/main.zip"><img src="https://github.com/difuse-dartmouth/.github/blob/main/profile/images/download-all.png" alt="Download the entire module" align="center" style="width: 4in;"></a>| <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="width=2in" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /><br></a>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. |
 |---------|----------|
 
-For instructors and interested parties, the history of this repository (with detailed commits), can be found [here](https://github.com/difuse-dartmouth/SOCY34_F21/commits/main/).
+For instructors and interested parties, the history of this repository (with detailed commits), can be found [here](https://github.com/difuse-dartmouth/engineering-statistics-in-R/commits/main/).
