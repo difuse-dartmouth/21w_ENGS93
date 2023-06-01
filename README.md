@@ -35,14 +35,14 @@ Jupyter Notebook running RStudio
 ## Schedule and Links
 Use this page to get an idea of the timeline of the module, what components are involved, and what documents are related to each component. This is the schedule intended for module deployment by the DIFUSE team, though instructors are welcome to modify the timeline to fit their course environment.
 
-| Date      |  In/Out of Class | Assignment Description                     | Linked course content                                    | Assignment Files (Linked to Repository Contents) |
-|------------------|-----------------|--------------------------------------------------|-------------------------------------------------|--------------------------------------------------|
-| Week 1 |  | RX_1  | Course content|[Problem Set 1](completed_module/components/assignment1/) |
-| Week 2 |  | RX_2 | 	Course content |[Problem Set 2](completed_module/public/components/assignment2/) |
-| Week 3 |  | RX_3  | Course content|[Problem Set 1](completed_module/components/assignment1/) |
-| Week 4 |  | RX_4 | 	Course content |[Problem Set 2](completed_module/public/components/assignment2/) |
-| Week 5 |  | RX_5  | Course content|[Problem Set 1](completed_module/components/assignment1/) |
-| Week 6 |  | RX_6 | 	Course content |[Problem Set 2](completed_module/public/components/assignment2/) |
+| Date      | Name  | Assignment Description         | Assignment Files (Linked to Repository Contents) |
+|-----------|--------------------------|-------------------------------|---------------------------------|
+| Week 1 | RX_0: Fuel Efficiency | After introducing R and some basic commands, this exercise looks at data on gas mileage of cars as reported in www.fueleconomy.gov.| [RX0_Ex](completed_module/components/RX0/) |
+| Week 2 | RX_1: Importing Data and Histograms | In this exercise, we will explore the **distributions of depth and velocity in streams**, as well as their **joint distribution**. Along the way, we will cover various R functions for working with both **empirical (i.e. data-based) and theoretical distributions**. | [RX1_Ex & HW](completed_module/public/components/RX1/) |
+| Week 3 | RX_2: Hypothesis Testing | The  human  body comes  in  various  shapes, sizes,  and  temperatures.  For  this  project,  two data sets are used to test various measurements of human bodies. | [RX2_Ex & HW](completed_module/public/components/RX2/)
+| Week 4 | RX_3: Hypothesis Testing | In this exercise, we will explore the concepts of statistical hypothesis testing, specificity, and power using examples related to GRE scores and coaching effectiveness. | [RX3_Ex & HW](completed_module/public/components/RX3/) |
+| Week 5 | RX_4: DDT in the Tennessee River| Chemical and manufacturing plants have historically discharged toxic waste materials into nearby rivers and streams. These toxicants have a detrimental effect on the plant and animal life inhabiting the river and the river's bank. With DDT measurements from captured fish, we will investigate the severity of these issues in this exercise.| [RX4_Ex & HW](completed_module/public/components/RX4/)
+| Week 6 | RX_5: ANOVA in Fertilizer and Sap Production | There is some controversy over whether fertilizer application can boost sap production in maple trees. The Vermont Maple Sugar Producers sponsored a testing program to determine the benefit of fertilizer application and in this exercise, we use ANOVA to analyze the results | [RX5_Ex & HW](completed_module/public/components/RX5/) |
 
 ## Course Information
 This course was developed for <a href="http://dartmouth.smartcatalogiq.com/current/orc/Departments-Programs-Undergraduate/Engineering-Sciences/ENGS-Engineering-Sciences-Undergraduate/ENGS-93">Engineering 93: Statistical Methods in Engineering</a>, at Dartmouth College which explores the application of statistical techniques and concepts to maximize the amount and quality of information resulting from experiments. The course is a culminating level course in the undergraduate Engineering Department. It has one prerequiste class: <a href="http://dartmouth.smartcatalogiq.com/current/orc/Departments-Programs-Undergraduate/Mathematics/MATH-Mathematics-Undergraduate/MATH-13">Calculus of Vector Valued Functions
